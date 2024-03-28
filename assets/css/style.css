@@ -1,12 +1,12 @@
-*{
+body{
     margin:0;
     padding:0;
+    background-color: black;
 }
 nav{
-    style=position:fixed;
-    background:none;
-    
+        background:none;
 }
+
 nav img{
     height: 50px;
 }
