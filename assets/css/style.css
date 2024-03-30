@@ -2,6 +2,7 @@ body{
     margin:0;
     padding:0;
     background-color: black;
+    color: white;
 }
 nav{
         background:none;
@@ -9,4 +10,21 @@ nav{
 
 nav img{
     height: 50px;
+}
+#presentacion{
+color: aliceblue;
+text-align: center;
+padding-top: 20px;
+}
+#presentacion h2{
+    font-weight: lighter;
+    margin:30px;
+}
+#presentacion p{
+    text-align: left;
+}
+.tarjeta i{
+    background-color: aqua;
+    padding:20px;
+
 }
