@@ -12,13 +12,13 @@ nav img{
     height: 50px;
 }
 #presentacion{
-color: aliceblue;
 text-align: center;
 padding-top: 20px;
 }
-#presentacion h2{
+.titulo-seccion{
     font-weight: lighter;
     margin:30px;
+    text-align: center;
 }
 #presentacion p{
     text-align: left;
@@ -27,4 +27,10 @@ padding-top: 20px;
     background-color: aqua;
     padding:20px;
 
+}
+#destacados{
+margin:50px;
+}
+.card{
+    margin:20px;
 }
