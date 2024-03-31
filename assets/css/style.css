@@ -40,3 +40,12 @@ margin:50px;
 #contacto{
     margin:50px;
 }
+footer{
+    background-color: aqua;
+}
+footer i{
+    background-color: aqua;
+    padding:5px;
+    color: white;
+
+}
