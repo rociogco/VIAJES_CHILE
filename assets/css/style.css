@@ -23,6 +23,9 @@ padding-top: 20px;
 #presentacion p{
     text-align: left;
 }
+.tarjeta{
+    margin: 30px;
+}
 .tarjeta i{
     background-color: aqua;
     padding:20px;
@@ -33,4 +36,7 @@ margin:50px;
 }
 .card{
     margin:20px;
+}
+#contacto{
+    margin:50px;
 }
